@@ -70,8 +70,6 @@ form.addEventListener("submit", (e) => {
     }
 })
 
-let num = new String(412757564)
-console.log(num.slice(0,4))
 
 
 
